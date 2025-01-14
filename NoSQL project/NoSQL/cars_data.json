@@ -1,0 +1,866 @@
+[
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2018 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18492&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2014 г., Алматы, 4.6 / бензин, КПП автомат",
+        "price": "19 700 000 ₸",
+        "url": "https://avtorynok.kz/post/18333&hl=ru"
+    },
+    {
+        "title": "Toyota C-HR",
+        "info": "2021 г., Алматы, 1.8 / гибрид, КПП вариатор",
+        "price": "15 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18248&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (XV60)",
+        "info": "2017 г., Алматы, 2.5 / бензин, КПП автомат",
+        "price": "9 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18212&hl=ru"
+    },
+    {
+        "title": "Unknown",
+        "info": "Unknown",
+        "price": "Unknown",
+        "url": "https://avtorynok.kz/post/18167&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado (J155)",
+        "info": "2014 г., Семей, 3.0 / дизель, КПП автомат",
+        "price": "18 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17673&hl=ru"
+    },
+    {
+        "title": "Toyota RAV4 (A5)",
+        "info": "2021 г., Алматы, 2.0 / бензин, КПП вариатор",
+        "price": "17 500 000 ₸",
+        "url": "https://avtorynok.kz/post/16544&hl=ru"
+    },
+    {
+        "title": "Toyota Vista (V5)",
+        "info": "1998 г., Алматы, 2.0 / бензин, КПП автомат",
+        "price": "2 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18075&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V55)",
+        "info": "2014 г., Усть-Каменогорск, 2.5 / бензин, КПП автомат",
+        "price": "11 000 000 ₸",
+        "url": "https://avtorynok.kz/post/18020&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J100)",
+        "info": "2005 г., Уральск, 4.7 / бензин, КПП автомат",
+        "price": "11 500 000 ₸",
+        "url": "https://avtorynok.kz/post/18012&hl=ru"
+    },
+    {
+        "title": "Toyota Land Cruiser (J200)",
+        "info": "2008 г., Алматы, 4.5 / дизель, КПП автомат",
+        "price": "9 800 000 ₸",
+        "url": "https://avtorynok.kz/post/17976&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V35)",
+        "info": "2004 г., Талдыкорган, 2.4 / бензин, КПП автомат",
+        "price": "5 950 000 ₸",
+        "url": "https://avtorynok.kz/post/17931&hl=ru"
+    },
+    {
+        "title": "Toyota Corolla (E21)",
+        "info": "2020 г., Алматы, 1.6 / бензин, КПП вариатор",
+        "price": "12 000 000 ₸",
+        "url": "https://avtorynok.kz/post/17827&hl=ru"
+    },
+    {
+        "title": "Toyota Avalon (X10)",
+        "info": "1997 г., Талдыкорган, 3.0 / бензин-газ, КПП автомат",
+        "price": "2 200 000 ₸",
+        "url": "https://avtorynok.kz/post/17792&hl=ru"
+    },
+    {
+        "title": "Toyota Previa",
+        "info": "1997 г., Кызылорда, 2.4 / бензин, КПП автомат",
+        "price": "3 500 000 ₸",
+        "url": "https://avtorynok.kz/post/17736&hl=ru"
+    },
+    {
+        "title": "Toyota Camry (V70)",
+        "info": "2021 г., Астана, 2.5 / бензин, КПП автомат",
+        "price": "13 000 000 ₸",
+        "url": "https://avtorynok.kz/post/15139&hl=ru"
+    }
+]
